@@ -20,9 +20,6 @@
 This project is the first part of the Maji Ndogo Integrated Water Project, focusing on visualizing the historical aspects of water access in the Maji Ndogo region. The goal of this visualization is to provide insights into past water access challenges, helping stakeholders understand the trends, patterns, and key issues that have shaped the current situation. By leveraging Power BI, this project presents data in an interactive and visually engaging manner to support informed decision-making and future interventions. The visuals were created to show the divide between rural and urban populations, the total population using different water sources, and broken infrastructure in different provinces. It stresses the importance of addressing gender inequality in access to water.
 
 ***
-
-**Findings**
-
 **National Statistics**
 
 ![Alt Text](images/image1.PNG)
@@ -33,13 +30,22 @@ This project is the first part of the Maji Ndogo Integrated Water Project, focus
 * The most utilized water source is shared taps, serving over **60 million people**. In contrast, other sources like wells, rivers, and broken taps serve much fewer people. This highlights the reliance on shared infrastructure and possibly the need for improvement or expansion of water sources in the region.
 * The provinces of Kilimani, Akatsi, and Sokoto show significant disparities between the percentages of males and females served.
 
+**Water Queue Time Statistics**
+
+![Alt Text](images/queaus.PNG)
 
 **Findings**
-* The analysis provides insights into the key themes and topics present in the dataset.
-* The most common words reflect a strong emphasis on courses, data science, Moringa, and educational aspects.
-* With 'course' being the most frequent word, the dataset places a substantial emphasis on educational offerings.
-* 'data,' 'science,' and 'moringa' indicate a strong focus on data science education, aligning with industry and institutional themes.
-* The repetition of terms like 'student,' 'develop,' and 'learn' underscores a learner-centric approach in the dataset.
+* The report on water access in Maji Ndogo shows that average queue times are highest on Saturdays, peaking at over 200 minutes, while being lowest on weekdays, particularly on Wednesdays, with under 50 minutes.
+* The time spent in queues tends to increase throughout the day, peaking around 6 PM, especially on weekends.
+*  Additionally, there's a positive correlation between the number of people served and the average time in the queue, with larger crowds leading to wait times longer, sometimes exceeding 200 minutes.
+
+
+
+
+
+
+
+
 **Bi-grams and Tri-grams Analysis**
 ![Alt Text](images/most_common_ngrams_subplot.png)
 
