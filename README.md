@@ -32,7 +32,7 @@ This project is the first part of the Maji Ndogo Integrated Water Project, focus
 
 **Water Queue Time Statistics**
 
-![Alt Text](images/queaus.PNG)
+![Alt Text](images/Queaus.PNG)
 
 **Findings**
 * The report on water access in Maji Ndogo shows that average queue times are highest on Saturdays, peaking at over 200 minutes, while being lowest on weekdays, particularly on Wednesdays, with under 50 minutes.
