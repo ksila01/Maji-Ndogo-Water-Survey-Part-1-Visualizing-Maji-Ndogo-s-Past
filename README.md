@@ -1,5 +1,5 @@
 # Maji Ndojo National Water Survey Analysis
-## Part 1 Visualizing Maji ndogo's Past: 
+## Part 1 Visualizing Maji ndogo's Past
 [Download_PowerBI_Report_Here](part_1.pbix)
 ***
 ![Alt Text](images/Capture1.PNG)
