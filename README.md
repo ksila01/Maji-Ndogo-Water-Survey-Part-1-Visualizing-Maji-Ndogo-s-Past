@@ -25,7 +25,7 @@ This project is the first part of the Maji Ndogo Integrated Water Project, focus
 
 **National Statistics**
 
-![Alt Text](images/image1.png)
+![Alt Text](images/image1.PNG)
 
 **Findings**
 * **64** of the population (approximately 18 million people) live in rural areas, while **36%** (around 10 million people) live in urban areas. This indicates that the majority of the population relying on water resources is concentrated in rural areas, which may present unique challenges in terms of infrastructure and access.
@@ -33,12 +33,6 @@ This project is the first part of the Maji Ndogo Integrated Water Project, focus
 * The most utilized water source is shared taps, serving over **60 million people**. In contrast, other sources like wells, rivers, and broken taps serve much fewer people. This highlights the reliance on shared infrastructure and possibly the need for improvement or expansion of water sources in the region.
 * The provinces of Kilimani, Akatsi, and Sokoto show significant disparities between the percentages of males and females served.
 
-**Word Frequency Analysis**
-
-![Alt Text](images/most_common_words_bar_chart.png)
-
-**Word Cloud**
-![Alt Text](images/Capture.PNG)
 
 **Findings**
 * The analysis provides insights into the key themes and topics present in the dataset.
