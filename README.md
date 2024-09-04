@@ -7,7 +7,7 @@
 
 
 
-![](./images/Capture1.png)
+![](./images/Capture.png)
 
 
 
