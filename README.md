@@ -7,9 +7,8 @@
 
 ### Contents
 - [Project Overview](#project_overview)
-- [Features](#features)
 - [Findings](Findings)
-- [Leason Learned] (leason_learned)
+- [Leason Learned](leason_learned)
 
 ***
 
@@ -18,23 +17,21 @@
 ***
   
 ## Project_Overview
-This project is the first part of the Maji Ndogo Integrated Water Project, focusing on visualizing the historical aspects of water access in the Maji Ndogo region. The goal of this visualization is to provide insights into past water access challenges, helping stakeholders understand the trends, patterns, and key issues that have shaped the current situation. By leveraging Power BI, this project presents data in an interactive and visually engaging manner to support informed decision-making and future interventions.
+This project is the first part of the Maji Ndogo Integrated Water Project, focusing on visualizing the historical aspects of water access in the Maji Ndogo region. The goal of this visualization is to provide insights into past water access challenges, helping stakeholders understand the trends, patterns, and key issues that have shaped the current situation. By leveraging Power BI, this project presents data in an interactive and visually engaging manner to support informed decision-making and future interventions. The visuals were created to show the divide between rural and urban populations, the total population using different water sources, and broken infrastructure in different provinces. It stresses the importance of addressing gender inequality in access to water.
 
 ***
 
-**Features**
-* **Historical Data Visualization**: Interactive dashboards that present historical data on water access, including gender disparities, regional differences, and crime patterns related to water collection.
-* **Customizable Filters**: Users can apply various filters to explore specific aspects of the data, such as time periods, geographic regions, and demographic groups.
-* **Engaging Visuals**: The report includes a variety of visualizations, such as maps, pie charts, and trend lines, to effectively convey the key findings.
+**Findings**
 
 **National Statistics**
 
-![Alt Text](images/question_response_lengths_histogram.png)
+![Alt Text](images/image1.png)
 
 **Findings**
-* The blue bars (questions) are clustered more towards the left side of the graph, indicating that most questions are shorter in length. The tallest blue bar, indicating the highest frequency, falls in the range of 0-10 words approximately.
-* The red bars (responses) show a wider distribution across the word count, suggesting that responses have a more varied length. The tallest red bar is in the range of 10-20 words.
-* The blue bars (questions) have a peak frequency much higher than the red bars (responses), suggesting that there is a common word count range where most questions fall.
+* **64** of the population (approximately 18 million people) live in rural areas, while **36%** (around 10 million people) live in urban areas. This indicates that the majority of the population relying on water resources is concentrated in rural areas, which may present unique challenges in terms of infrastructure and access.
+* The population served by water sources consists of **69.06% female, 23.08% male, and 7.86% children**. This demographic breakdown shows a significant gender imbalance, with females forming the majority. This insight could indicate differences in accessibility or social roles related to water collection and usage.
+* The most utilized water source is shared taps, serving over **60 million people**. In contrast, other sources like wells, rivers, and broken taps serve much fewer people. This highlights the reliance on shared infrastructure and possibly the need for improvement or expansion of water sources in the region.
+* The provinces of Kilimani, Akatsi, and Sokoto show significant disparities between the percentages of males and females served.
 
 **Word Frequency Analysis**
 
