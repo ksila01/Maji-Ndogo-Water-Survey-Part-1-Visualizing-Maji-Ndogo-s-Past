@@ -1,7 +1,7 @@
 # Maji Ndojo National Water Survey Analysis
 ## Part 1 Visualizing Maji ndogo's Past
 ***
-![](./images/image2.png)
+![](./images/capture1.png)
 ***
 
 ### Contents
